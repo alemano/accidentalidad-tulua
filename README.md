@@ -82,3 +82,5 @@ Los resultados de este análisis deben interpretarse con responsabilidad. Las pr
 
 ## 👤 Autor
 Proyecto desarrollado con fines educativos y de portafolio en analítica de datos.
+Alexander MArulanda Noreña
+Alemano_2@live.com
